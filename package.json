@@ -5,6 +5,9 @@
   "description": "Easy Internet Checker by EasyAssets",
   "unity": "2021.3",
   "author": {
-    "name": "EasyAssets"
-  }
+    "name": "EasyAssets",
+    "url": "https://github.com/easy-assets"
+  },
+  "license": "MIT",
+  "keywords": ["unity", "upm", "plugin"]
 }
