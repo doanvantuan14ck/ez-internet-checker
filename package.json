@@ -1,0 +1,10 @@
+{
+  "name": "ez-internet-checker",
+  "version": "1.0.0",
+  "displayName": "Easy Internet Checker",
+  "description": "Easy Internet Checker by EasyAssets",
+  "unity": "2021.3",
+  "author": {
+    "name": "EasyAssets"
+  }
+}
